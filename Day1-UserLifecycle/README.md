@@ -1,4 +1,4 @@
-# 🐧 Day 1 — Enterprise User Lifecycle Automation (Username: saravana)
+#  Day 1 — Enterprise User Lifecycle Automation
 
 ---
 
