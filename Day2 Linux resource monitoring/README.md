@@ -1,19 +1,29 @@
-# Day 2 — Linux Resource Monitoring & Email Alerting 🚨
-
-Part of my **60 Days of DevOps Challenge**, this POC demonstrates how to monitor critical system resources on a Linux machine using a shell script — and send automatic email alerts when thresholds are crossed.
+# ✅ Day 2 — Monitor System Resources & Send Alerts via Shell Script
 
 ---
 
-## ✅ Features
+## 🎯 Objective
 
-- ✅ Monitor CPU, RAM, and Disk usage in real-time
-- ✅ Automatically send an alert email if usage exceeds threshold
-- ✅ Modular script for reuse and customization
-- ✅ Lightweight — no external monitoring tools required
-- ✅ Uses native tools (`top`, `df`, `free`, `mail`)
+Build a shell script to:
+
+✅ Monitor critical system resources (CPU, Memory, Disk)  
+✅ Set threshold-based alerts  
+✅ Send alert emails using `mail` command when thresholds are crossed  
+✅ Continuously log system health for proactive troubleshooting  
 
 ---
 
+## 📌 Commands Practiced
 
+| Command              | Purpose                                              |
+|----------------------|------------------------------------------------------|
+| `top`, `free`, `df`  | Collect CPU, Memory, and Disk usage stats            |
+| `mail`               | Send alert emails                                    |
+| `awk`, `grep`, `cut` | Extract specific values from command outputs         |
+| `cron` (optional)    | Schedule script for periodic execution               |
+| `uptime`             | Get system load info                                 |
+| `tail`, `logger`     | Log system state to file or syslog                   |
+
+---
 
 
