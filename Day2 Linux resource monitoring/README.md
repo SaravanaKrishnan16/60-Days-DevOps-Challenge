@@ -1,4 +1,4 @@
-# ✅ Day 2 — Monitor System Resources & Send Alerts via Shell Script
+✅ Day 2 — Monitor System Resources & Send Alerts via Shell Script
 
 ---
 
