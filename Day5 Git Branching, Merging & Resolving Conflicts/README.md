@@ -29,7 +29,6 @@ Understand and practice key Git concepts:
 
 ---
 
-## 📁 Folder Structure
 
 
 
